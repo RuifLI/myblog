@@ -89,7 +89,7 @@ a {
   height: 100%;
   background: #2dbe60;
   border-right: 1px solid #1b9848;
-  box-shadow: inset -15px 0 15px -15px #222;
+  box-shadow: inset -15px 0 15px -15px #1b9848;
   float: left;
   position: relative;
   -webkit-user-select: none;
@@ -149,7 +149,7 @@ a {
     -o-transition: none;
     transition: none; }
     .tags__li.active:hover {
-      color: #020202;
+      color: #fff;
       background: #fafafa; }
     .tags__li.active:before, .tags__li.active:after {
       content: "";
