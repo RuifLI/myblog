@@ -1,5 +1,3 @@
-_site
-_drafts
-.DS_Store
-.idea
-.sass-cache
+_site/
+_drafts/
+.sass-cache/
