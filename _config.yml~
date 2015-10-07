@@ -20,8 +20,12 @@ url: http://ruifli.com
 rss_url: /pages/atom.xml
 
 # avatar头像及Favicon
-avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
-favicon: https://github.com/fluidicon.png
+<<<<<<< HEAD
+avatar: http://ww2.sinaimg.cn/mw690/6e456299jw8ewsw1yjqkqj20hs0hu755.jpg
+=======
+avatar: http://www.iconpng.com/png/sanrio-icons/chococat_1.png
+>>>>>>> ebb32cc393d83a79828d37344731c722591699fe
+favicon: https://assets-cdn.github.com/favicon.ico
 
 # google analytics 设置
 ga:

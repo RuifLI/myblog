@@ -22,7 +22,6 @@ rss_url: /pages/atom.xml
 # avatar头像及Favicon
 avatar: http://ww2.sinaimg.cn/mw690/6e456299jw8ewsw1yjqkqj20hs0hu755.jpg
 favicon: https://assets-cdn.github.com/favicon.ico
-
 # google analytics 设置
 ga:
   id: UA-54767140-1
