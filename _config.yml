@@ -21,7 +21,7 @@ rss_url: /pages/atom.xml
 
 # avatar头像及Favicon
 avatar: http://www.iconpng.com/png/sanrio-icons/chococat_1.png
-favicon: https://github.com/fluidicon.png
+favicon: https://assets-cdn.github.com/favicon.ico
 
 # google analytics 设置
 ga:
