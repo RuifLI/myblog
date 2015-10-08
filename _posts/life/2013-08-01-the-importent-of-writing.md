@@ -9,7 +9,7 @@ description: 不再学习技术或做项目，就不再产生内容，这就是�
 
 最近都没有怎么上微博，昨天上去看到这样一句话，让我挺有感触
 
-![写作的重要性](http://thumbsnap.com/LohwsWG1)
+![写作的重要性](http://b93.photo.store.qq.com/psb?/bcef3d08-ed6c-49ae-be0e-d4aceb0847f0/CPLDBkDK.788t6fJWdTug6SUzTj7BB*CvaMlp9tBT6w!/b/YTLSdDdSWQAAYoxGczc5WQAA&bo=1AFYAgAAAAABAKg!&rf=viewer_4)
 
 我自己写的东西大部分都是一些遇到问题记录和总结，很少能有一些“创造性”的东西。
 
