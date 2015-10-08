@@ -7,7 +7,7 @@ keywords: 写作,writing
 description: 不再学习技术或做项目，就不再产生内容，这就是我从6月中旬到现在都没有更新的原因
 ---
 
-#转载
+转载
 
 ![写作的重要性](http://b93.photo.store.qq.com/psb?/bcef3d08-ed6c-49ae-be0e-d4aceb0847f0/CPLDBkDK.788t6fJWdTug6SUzTj7BB*CvaMlp9tBT6w!/b/YTLSdDdSWQAAYoxGczc5WQAA&bo=1AFYAgAAAAABAKg!&rf=viewer_4)
 
