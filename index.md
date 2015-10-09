@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome|RuifLI's 博客
+title: Welcome|RuifLI's博客
 ---
 ![By Richard Loader](https://images.unsplash.com/photo-1440882616325-43e474ece3d0?fit=crop&fm=jpg&h=800&q=80&w=1200)
 图片来源：unsplash.com By Richard Loader
